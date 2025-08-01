@@ -1,4 +1,4 @@
-<h1 align="center">🧪 Freddy Trigger // ChopLab™</h1>
+<h1 align="center">🧪 mrivey263 // ChopLab™</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=9C00FF&center=true&vCenter=true&width=435&lines=🎷+Creator+of+ChopLab™;🤖+AI+Artist+Engineer;🎻+Sound+Designer+%2F+Beatmaker;🧬+Tech+with+a+Twist" alt="Typing SVG" />
 </p>
