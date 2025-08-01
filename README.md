@@ -51,4 +51,3 @@
 
 ---
 
-<!-- Replace 'your-username' with your actual GitHub username -->
