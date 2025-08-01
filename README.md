@@ -1,4 +1,4 @@
-<h1 align="center">🧪 mrivey263 // ChopLab™</h1>
+<h1 align="center">🧪 Freddy Trigger // ChopLab™</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=9C00FF&center=true&vCenter=true&width=435&lines=🎷+Creator+of+ChopLab™;🤖+AI+Artist+Engineer;🎻+Sound+Designer+%2F+Beatmaker;🧬+Tech+with+a+Twist" alt="Typing SVG" />
 </p>
@@ -35,10 +35,26 @@
 
 ---
 
+### 👁️ AI Artist Preview
+
+<p align="center">
+  <img src="https://your-image-link.com/big-drip-shawty.jpg" alt="Big Drip Shawty" width="300"/>
+  <br/>
+  <b>Big Drip Shawty</b> – A club-ready, confident, bad bitch energy AI rapper.
+</p>
+
+<p align="center">
+  <img src="https://your-image-link.com/kandikore.jpg" alt="KandiKore" width="300"/>
+  <br/>
+  <b>KandiKore</b> – Hyperfeminine chaos in a Y2K-meets-futuristic-rave aesthetic.
+</p>
+
+---
+
 ### 🧠 Connect With Me
 
 - 🎵 [YouTube Channel (ChopLab)](https://www.youtube.com)  
-- 🧬 [Suno.ai Tracks](https://suno.com)  
+- 🧬 [Suno.ai Tracks](https://suno.com/@digitalchops)  
 - 🛠️ [My Tools & Projects (soon)](https://github.com/mrivey263)  
 - 🖤 Always building, always plotting...
 
@@ -51,3 +67,5 @@
 
 ---
 
+<!-- Replace 'your-username' with your actual GitHub username -->
+<!-- Replace image URLs with hosted images of your AI artists -->
